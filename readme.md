@@ -43,6 +43,7 @@ Pour cela, remplacer la chaîne 'grass' par 'wall' aux endroits nécessaires.
 
 La troisième et dernière étape est de placer aléatoirement des buissons et/ou des rochers.
 Pour cela il vous faudra stocker un tableau de longueur 2 à la place d'une chaîne de caractère. Ce tableau contiendra 2 chaînes de caractères :
+
     Une première pour le sol (grass ou earth);
     Une seconde pour le buisson ou le rocher (bush ou rock).
 
