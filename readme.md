@@ -3,6 +3,7 @@
 ## Tableaux & boucles
 
 **Tout se passe dans le fichier script.js**
+
 **Ne pas toucher aux autres fichiers !**
 
 ### Objectifs
