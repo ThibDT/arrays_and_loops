@@ -21,7 +21,7 @@ Votre premier objectif est de générer un tableau à deux dimensions.
 Les dimensions (largeur et hauteur) du tableau doivent être stockées dans deux variables.
 Le tableau doit être généré à partir de boucles for.
 
-Dans un premier chaque case du tableau doit contenir la chaîne de caractère 'grass'.
+Dans un premier temps chaque case du tableau doit contenir la chaîne de caractère 'grass'.
 
 Ainsi votre tableau doit être de la forme :
 ```javascript
